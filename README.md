@@ -1,2 +1,2 @@
 # Cosmac-VIP-ASCII-Keyboard-Interface
-Interface card to connect ASCII keyboard to Cosmac VIP
+Interface card to connect ELF II ASCII keyboard to Cosmac VIP
